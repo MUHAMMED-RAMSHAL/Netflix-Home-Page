@@ -1,2 +1,2 @@
 # Netflix-Home-Page
-React 
+React,Html,Css 
