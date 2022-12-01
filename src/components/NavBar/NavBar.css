@@ -1,0 +1,42 @@
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #111;
+    
+}
+
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
+.Nav_links{
+    margin-left: 5.5rem;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Nav_links a {
+    color:#fff;
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+    font-family: "Netflix Sans","Helvetica Neue",Arial, Helvetica, sans-serif;
+    
+}
+.Nav_links a:hover{
+    background-color: #e6e6e6;
+    color: black;
+}
